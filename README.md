@@ -7,7 +7,7 @@ One of the problems with stock analysis is the large number of companies to anal
 ## Solution
 So I developed an algorithm that is able to analyze the technical data of any number of stocks, recognize predefined patterns and, with the help of a machine learning model, make a prediction about the price trend.
 ### Concept
-
+![How it works](demo/concept.png)
 
 
 ## License
