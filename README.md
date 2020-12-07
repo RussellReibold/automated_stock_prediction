@@ -12,6 +12,9 @@ The final idea looks like this. First, a cloud computing machine is created in t
 
 Also runs on the EC2 machine metabase. Metabase gives insights on sectors and individual stocks. This helps to make a decision about the risk. Metabase + the probability therefore represent a risk management tool.
 
+Check out my current Metabase Dashboard: 
+http://3.138.107.26/public/dashboard/2f84cc03-f529-4ee7-af01-45047f2f4438
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
