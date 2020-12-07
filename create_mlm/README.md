@@ -14,6 +14,10 @@ Test  accuracy:   74%
 
 Cross-Validation: 75%
 
+## Features
+I used a total of 9 technical features to build the machine learning model. 
+4 of the features were relations features, which I created myself to show the relation of price to certain factors.
+
 
 
 
